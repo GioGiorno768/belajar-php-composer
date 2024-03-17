@@ -1,0 +1,17 @@
+{
+    "name": "vnvxl/belajar-composer-library",
+    "description": "Belajar Composer Library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kevin ragil",
+            "email": "kevinragil768@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "vxl\\Data\\": "src/"
+        }
+    },
+    "require": {}
+}
